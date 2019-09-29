@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Animation2PNG.unity
+  isLoaded: 1
+  isActive: 1
